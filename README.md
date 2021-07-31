@@ -2,12 +2,12 @@
 ##### Software Engineer By skills , Civil engineer by Degree
 ******
 
-<div align="center"><h3><a target="blank" href="mailto:radioactivenarendra@gmail.com">📧 radioactivenarendra@gmail.com</a></h3>
-<a href="https:\\google.com" target="blank"><img src="https://user-images.githubusercontent.com/88178000/127736341-c9c47072-7f29-4d38-beb7-72cdee093152.png" width="100px"></img></a>
-  &nbsp;&nbsp;&nbsp;&nbsp &nbsp;&nbsp;&nbsp;<a href="https://www.codechef.com/users/napiyo" target="blank"><img src="https://upload.wikimedia.org/wikipedia/en/thumb/7/7b/Codechef%28new%29_logo.svg/1200px-Codechef%28new%29_logo.svg.png" width="100px"></img></a>
-   &nbsp; &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<a href="https://www.instagram.com/narendra_dewasi/" target="blank"><img src="http://assets.stickpng.com/images/580b57fcd9996e24bc43c521.png" width="30px"></img></a>
-   &nbsp;&nbsp;&nbsp; &nbsp;&nbsp;&nbsp;&nbsp;<a href="https://www.linkedin.com/in/narendra-dewasi/" target="blank"><img src="https://www.freeiconspng.com/thumbs/linkedin-logo-png/linkedin-logo-3.png" width="30px"></img></a> 
-    &nbsp;&nbsp;&nbsp; &nbsp;&nbsp;&nbsp;&nbsp;<a href="https://www.youtube.com/channel/UCWh1gVC_bIk60W0FjiSh6XA" target="blank"><img src="https://img.shields.io/youtube/channel/views/UCWh1gVC_bIk60W0FjiSh6XA?label=youTube%20Views&style=social" width="150px"></img></a> 
+<div align="center"><h3><a target="_blank" href="mailto:radioactivenarendra@gmail.com">📧 radioactivenarendra@gmail.com</a></h3>
+<a href="https:\\google.com" target="_blank"><img src="https://user-images.githubusercontent.com/88178000/127736341-c9c47072-7f29-4d38-beb7-72cdee093152.png" width="100px"></img></a>
+  &nbsp;&nbsp;&nbsp;&nbsp &nbsp;&nbsp;&nbsp;<a href="https://www.codechef.com/users/napiyo" target="_blank"><img src="https://upload.wikimedia.org/wikipedia/en/thumb/7/7b/Codechef%28new%29_logo.svg/1200px-Codechef%28new%29_logo.svg.png" width="100px"></img></a>
+   &nbsp; &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<a href="https://www.instagram.com/narendra_dewasi/" target="_blank"><img src="http://assets.stickpng.com/images/580b57fcd9996e24bc43c521.png" width="30px"></img></a>
+   &nbsp;&nbsp;&nbsp; &nbsp;&nbsp;&nbsp;&nbsp;<a href="https://www.linkedin.com/in/narendra-dewasi/" target="_blank"><img src="https://www.freeiconspng.com/thumbs/linkedin-logo-png/linkedin-logo-3.png" width="30px"></img></a> 
+    &nbsp;&nbsp;&nbsp; &nbsp;&nbsp;&nbsp;&nbsp;<a href="https://www.youtube.com/channel/UCWh1gVC_bIk60W0FjiSh6XA" target="_blank"><img src="https://img.shields.io/youtube/channel/views/UCWh1gVC_bIk60W0FjiSh6XA?label=youTube%20Views&style=social" width="150px"></img></a> 
   </div>
   
   ![visitors](https://visitor-badge.laobi.icu/badge?page_id=page.id=napiyo.napiyo) 
