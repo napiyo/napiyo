@@ -1,4 +1,4 @@
-<img src='ezgif-3-cb8aaa268f95.gif' />
+<img src='ezgif-3-cb8aaa268f95.gif' style="width:100%"/>
 
 ### Hi there 👋
 
