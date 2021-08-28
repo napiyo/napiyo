@@ -64,6 +64,8 @@
   
   
 - Quiz App Github - &emsp;&emsp;&emsp;&emsp; [gitHub Repo link](https://github.com/napiyo/QuizApp) &emsp;&emsp;&emsp;&emsp; Preview- <https://napiyo.github.io/QuizApp/>
+ > A quiz Website which let user take quiz with password, display questions in random sequence , time limit , at the end shows result. disabled copy/paste/rightClick,
+ > Gives a warning if window is minimized or tab is changed. if do again. user will disqualified. has a calculator. display current time and time remaining 
   
   
   </details>
