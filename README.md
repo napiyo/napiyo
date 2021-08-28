@@ -4,6 +4,7 @@
 
 <div align="center"><h3><a target="_blank" href="mailto:radioactivenarendra@gmail.com">📧 radioactivenarendra@gmail.com</a></h3>
 <a href="https:\\google.com" target="_blank"><img src="https://user-images.githubusercontent.com/88178000/127736341-c9c47072-7f29-4d38-beb7-72cdee093152.png" width="100px"></img></a>
+&nbsp;&nbsp;&nbsp;&nbsp &nbsp;&nbsp;&nbsp;<a href="https://auth.geeksforgeeks.org/user/radioactivenarendra/practice/" target="_blank"><img src="https://cdncontribute.geeksforgeeks.org/wp-content/uploads/geeksforgeeks-19.png" width="100px"></img></a>
   &nbsp;&nbsp;&nbsp;&nbsp &nbsp;&nbsp;&nbsp;<a href="https://www.codechef.com/users/napiyo" target="_blank"><img src="https://upload.wikimedia.org/wikipedia/en/thumb/7/7b/Codechef%28new%29_logo.svg/1200px-Codechef%28new%29_logo.svg.png" width="100px"></img></a>
    &nbsp; &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<a href="https://www.instagram.com/narendra_dewasi/" target="_blank"><img src="http://assets.stickpng.com/images/580b57fcd9996e24bc43c521.png" width="30px"></img></a>
    &nbsp;&nbsp;&nbsp; &nbsp;&nbsp;&nbsp;&nbsp;<a href="https://www.linkedin.com/in/narendra-dewasi/" target="_blank"><img src="https://www.freeiconspng.com/thumbs/linkedin-logo-png/linkedin-logo-3.png" width="30px"></img></a> 
@@ -12,12 +13,24 @@
   
   ![visitors](https://visitor-badge.laobi.icu/badge?page_id=page.id=napiyo.napiyo) 
   *****
-## 👨‍💻 About me
+  <details>
+  <summary>SHOW About me </summary>
+  
+  ## 👨‍💻 About me
 > Engineering Student of **Ramaiah Institute of Technology , bengaluru (India)** . pursuing my Bachelor of Engineering in Civil engineering. (2022 Passout Batch)
 
 > Self taught programmer and willing to programming professionally
 
 >I'm From Rajasthan and Now living in Bengaluru (India)
+  
+> Good with Data Structures and Algorithms
+  </details>
+  
+ 
+  <details>
+  <summary>SHOW Skills </summary>
+  
+  
 ## 🤹‍♂️ Skills
 > ### Languages :
 >> 	![Python](https://img.shields.io/badge/python-%2314354C.svg?style=for-the-badge&logo=python&logoColor=white) 
@@ -38,6 +51,11 @@
 > > ![Django](https://img.shields.io/badge/django-%23092E20.svg?style=for-the-badge&logo=django&logoColor=white)
 > ### What I can Make ?
 > > - Websites , Android Apps , Hybrid apps (Android and IOS)
+</details>
 
-<div align="center">
-<img src="https://user-images.githubusercontent.com/88178000/127739693-2c4e5581-6d3e-4aeb-b75f-cffcb89a24a2.png" height="50px" ></div>
+
+
+# Projects
+---
+## Mini projects
+
