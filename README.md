@@ -2,6 +2,8 @@
 ##### Software Engineer By skills , Civil engineer by Degree
 ******
 
+#### Profile links -
+
 <div align="center"><h3><a target="_blank" href="mailto:radioactivenarendra@gmail.com">📧 radioactivenarendra@gmail.com</a></h3>
 <a href="https:\\google.com" target="_blank"><img src="https://user-images.githubusercontent.com/88178000/127736341-c9c47072-7f29-4d38-beb7-72cdee093152.png" width="100px"></img></a>
 &emsp;<a href="https://auth.geeksforgeeks.org/user/radioactivenarendra/practice/" target="_blank"><img src="https://cdncontribute.geeksforgeeks.org/wp-content/uploads/geeksforgeeks-19.png" width="100px"></img></a>
@@ -62,10 +64,16 @@
 <details open>
   <summary>JavaScript</summary>
   
-  
+
 - Quiz App Github - &emsp;&emsp;&emsp;&emsp; [gitHub Repo link](https://github.com/napiyo/QuizApp) &emsp;&emsp;&emsp;&emsp; Preview- <https://napiyo.github.io/QuizApp/>
  > A quiz Website which let user take quiz with password, display questions in random sequence , time limit , at the end shows result. disabled copy/paste/rightClick,
  > Gives a warning if window is minimized or tab is changed. if do again. user will disqualified. has a calculator. display current time and time remaining 
   
   
   </details>
+
+
+<details open>
+ <summary>GitHub Stats</summary>
+ 
+ ![Narendra's GitHub stats](https://github-readme-stats.vercel.app/api?username=napiyo&theme=merko&show_icons=true) &emsp;&emsp; ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=napiyo&layout=compact)
