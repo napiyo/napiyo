@@ -65,9 +65,14 @@
   <summary>JavaScript</summary>
   
 
-- Quiz App Github - &emsp;&emsp;&emsp;&emsp; [gitHub Repo link](https://github.com/napiyo/QuizApp) &emsp;&emsp;&emsp;&emsp; Preview- <https://napiyo.github.io/QuizApp/>
+- Quiz App  - &emsp;&emsp;&emsp;&emsp; [gitHub Repo link](https://github.com/napiyo/QuizApp) &emsp;&emsp;&emsp;&emsp; Preview- <https://napiyo.github.io/QuizApp/>
  > A quiz Website which let user take quiz with password, display questions in random sequence , time limit , at the end shows result. disabled copy/paste/rightClick,
  > Gives a warning if window is minimized or tab is changed. if do again. user will disqualified. has a calculator. display current time and time remaining 
+  
+ 
+- Snake Game  - &emsp;&emsp;&emsp;&emsp; [gitHub Repo link](https://github.com/napiyo/SnakeGame) &emsp;&emsp;&emsp;&emsp; Preview- <https://napiyo.github.io/SnakeGame/>
+ > NO!!  it doesn't need any description. who dont love SnakeGame . we used to play in our mom's Nokia phone  
+  
   
   
   </details>
