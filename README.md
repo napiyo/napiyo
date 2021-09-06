@@ -71,7 +71,7 @@
   
  
 - Snake Game  - &emsp;&emsp;&emsp;&emsp; [gitHub Repo link](https://github.com/napiyo/SnakeGame) &emsp;&emsp;&emsp;&emsp; Preview- <https://napiyo.github.io/SnakeGame/>
- > NO!!  it doesn't need any description. who dont love SnakeGame . we used to play in our mom's Nokia phone  
+ > NO!!  it don't need any description. who dont love SnakeGame . we used to play in our mom's Nokia phone  
   
  - Audio Player  - &emsp;&emsp;&emsp;&emsp; [gitHub Repo link](https://github.com/napiyo/Audioplayer) &emsp;&emsp;&emsp;&emsp; Preview- <https://napiyo.github.io/Audioplayer/>
  > Audio Player in JavaScript with playlist   
