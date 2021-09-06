@@ -73,6 +73,8 @@
 - Snake Game  - &emsp;&emsp;&emsp;&emsp; [gitHub Repo link](https://github.com/napiyo/SnakeGame) &emsp;&emsp;&emsp;&emsp; Preview- <https://napiyo.github.io/SnakeGame/>
  > NO!!  it doesn't need any description. who dont love SnakeGame . we used to play in our mom's Nokia phone  
   
+- Calculator  - &emsp;&emsp;&emsp;&emsp; [gitHub Repo link](https://github.com/napiyo/CalculatorJavaScript) &emsp;&emsp;&emsp;&emsp; Preview- <https://napiyo.github.io/CalculatorJavaScript/>
+ > Draggable Calculator in JavaScript 
   
   
   </details>
