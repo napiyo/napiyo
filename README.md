@@ -19,7 +19,7 @@
   <summary>SHOW About me </summary>
   
   ## 👨‍💻 About me
-> Engineering Student of **Ramaiah Institute of Technology , bengaluru (India)** . pursuing my Bachelor of Engineering in Civil engineering. (2022 Passout Batch)
+> Engineering Student of **Ramaiah Institute of Technology , bengaluru (India)** . pursuing my Bachelor's of Engineering in Civil engineering. (2022 Passout Batch)
 
 > Self taught programmer and willing to programming professionally
 
