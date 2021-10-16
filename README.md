@@ -14,11 +14,15 @@
   </div>
   
   ![visitors](https://visitor-badge.laobi.icu/badge?page_id=page.id=napiyo.napiyo) 
-  *****
+  
+ ****
+ Operating systems , DBMS , OOPs, Data Structures And algorithms , Networking
+ 
+ *****
   <details>
   <summary>SHOW About me </summary>
-  
-  ## 👨‍💻 About me
+
+ ## 👨‍💻 About me
 > Engineering Student of **Ramaiah Institute of Technology , bengaluru (India)** . pursuing my Bachelor's of Engineering in Civil engineering. (2022 Passout Batch)
 
 > Self taught programmer and willing to programming professionally
