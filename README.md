@@ -65,7 +65,7 @@
 ### Mini projects
 
 
-<details open>
+<details>
   <summary>JavaScript</summary>
   
 
