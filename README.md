@@ -15,9 +15,10 @@
   </div>
   <br>
   <div align="center">
+ <hr>
 
  ![visitors](https://visitor-badge.laobi.icu/badge?page_id=page.id=napiyo.napiyo) 
-  &emsp; &emsp;
+  &emsp;
    ![codechef](https://img.shields.io/badge/dynamic/json?label=CodeChef&query=%24.rating&url=https://competitive-coding-api.herokuapp.com/api/codechef/napiyo&prefix=Rating%20&logo=codechef&logoColor=f5f5dc&labelColor=7b5e47&style=for-the-badge&cacheSeconds=86400) 
  
 </div>
@@ -26,18 +27,10 @@
  Operating systems , DBMS , OOPs, Data Structures And algorithms , Networking
  
  *****
- <div style="display: flex,
-  align-items: center,
-  justify-content: space-around">
- </div>
- <div>
- 
+
   > leetcode stats
  
  [![Narendra's leetcode stats](https://leetcode-stats-six.vercel.app/api?username=napiyo&theme=dark)](https://leetcode.com/napiyo/)
-
-
-</div>
 
 ****
   <details>
