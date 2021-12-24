@@ -31,6 +31,8 @@
   > leetcode stats
  
  [![Narendra's leetcode stats](https://leetcode-stats-six.vercel.app/api?username=napiyo&theme=dark)](https://leetcode.com/napiyo/)
+ [![Narendra's geeksForgeeks stats](https://geeks-for-geeks-stats-api-napiyo.vercel.app/?userName=radioactivenarendra)](https://auth.geeksforgeeks.org/user/radioactivenarendra/practice/)
+ 
 
 ****
   <details>
