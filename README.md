@@ -1,5 +1,5 @@
 ![intro_Trim](https://user-images.githubusercontent.com/88178000/127735210-c824ab80-8438-4c44-b362-2c2404146b0f.gif)
-##### Software Engineer By skills , Civil engineer by Degree > looking for SDE role Full time or Internships
+##### Software Engineer at Samsung R&D institute, Bangalore
 ******
 
 #### Profile links -
