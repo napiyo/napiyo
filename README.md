@@ -4,7 +4,7 @@
 
 #### Profile links -
 
-<div align="center"><h3><a target="_blank" href="mailto:radioactivenarendra@gmail.com">📧 radioactivenarendra@gmail.com</a> | <a href="https://portfolio-napiyo.vercel.app/">portfolio</a></h3>
+<div align="center"><h3><a target="_blank" href="mailto:radioactivenarendra@gmail.com">📧 radioactivenarendra@gmail.com</a> | <a href="https://napiyo.github.io/portfolio-os/">New portfolio</a> | <a href="https://portfolio-napiyo.vercel.app/"> Old portfolio</a></h3>
 <a href="https://drive.google.com/file/d/1IIZn1V5Z4WliWQR2Nd8nwk-R_3KizwwQ/view" target="_blank"><img src="https://user-images.githubusercontent.com/88178000/127736341-c9c47072-7f29-4d38-beb7-72cdee093152.png" width="100px"></img></a>
  &emsp;<a href="https://leetcode.com/napiyo/" target="_blank"><img src="https://cdn.icon-icons.com/icons2/2530/PNG/512/leetcode_button_icon_151892.png" width="150px"></img></a> 
 &emsp;<a href="https://auth.geeksforgeeks.org/user/radioactivenarendra/practice/" target="_blank"><img src="https://cdncontribute.geeksforgeeks.org/wp-content/uploads/geeksforgeeks-19.png" width="100px"></img></a>
